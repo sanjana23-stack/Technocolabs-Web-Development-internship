@@ -1,0 +1,13 @@
+{
+  "name": "sourcecode",
+  "version": "1.0.0",
+  "description": "Transpile code in a Babel project",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
